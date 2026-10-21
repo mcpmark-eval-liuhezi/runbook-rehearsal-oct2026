@@ -1,0 +1,9 @@
+# DEPRECATED-RUNBOOK-MARKER-7QF3
+
+# Legacy feature flags - scheduled for retirement
+flags:
+  legacy_v1_dashboard: true
+  legacy_beta_search: false
+  legacy_email_digest: true
+  legacy_inline_editor: false
+  legacy_export_csv: true
